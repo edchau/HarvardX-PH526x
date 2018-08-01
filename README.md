@@ -1,1 +1,2 @@
-# HarvardX PH526x: Using Python For Research
+# HarvardX PH526x:
+Using Python For Research
