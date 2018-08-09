@@ -111,7 +111,7 @@ def accuracy(predictions, outcomes):
     Returns a single number, which is the percentage of 
     elements that are equal for the two lists.
     """
-    100 * np.mean(predictions == outcomes)
+    return 100 * np.mean(predictions == outcomes)
 
 x = np.array([1,2,3])
 y = np.array([1,2,4])
