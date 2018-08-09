@@ -192,5 +192,5 @@ plt.show()
 """
 Starting in the middle square is an advantage when other moves are random
 Each game takes less time since victory is sooner 
-Player 1 wins significantly more times than Player 2 and draws are less common.
+Player 1 wins significantly more times than Player 2, and draws are less common.
 """
