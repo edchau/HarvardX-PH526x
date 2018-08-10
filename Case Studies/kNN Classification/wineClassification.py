@@ -78,7 +78,7 @@ numeric_data = data.drop('color', axis=1)
 #data from several different angles
 import sklearn.preprocessing
 scaled_data = sklearn.preprocessing.scale(numeric_data)
-numeric_data = pd.DataFrame(scaled_data, columns =numeric_data.columns)
+numeric_data = pd.DataFrame(scaled_data, columns = numeric_data.columns)
 
 import sklearn.decomposition
 pca = sklearn.decomposition.PCA(n_components=2)
