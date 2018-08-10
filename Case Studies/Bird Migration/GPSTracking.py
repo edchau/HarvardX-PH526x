@@ -124,7 +124,7 @@ proj = ccrs.Mercator()
 
 plt.figure(figsize=(10,10))
 ax = plt.axes(projection=proj)
-ax.set_extent((-25.0, 20.0, 52.0, 10.0))
+ax.set_extent((-25.0, 20.0, 52.0, 10.0)) #coordinates on map
 ax.add_feature(cfeature.LAND)
 ax.add_feature(cfeature.OCEAN)
 ax.add_feature(cfeature.COASTLINE)
