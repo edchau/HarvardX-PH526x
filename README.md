@@ -32,4 +32,4 @@ Introduction to Python modules commonly used in scientific computation, such as 
 This collection of six case studies from different disciplines provides opportunities to practice Python research skills.
 
 **Weeks 5: Case Studies**
-Linear Regression, Logistic Regression, Random Forest Case Study
+Linear Regression, Logistic Regression, Random Forests for Regression and Classifcation
